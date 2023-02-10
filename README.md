@@ -16,5 +16,5 @@ Technologies Used: This project leveraged various cutting-edge technologies to d
 
 In conclusion, this project showcases not just technical proficiency but also a deep understanding of the concepts of machine learning, computer vision, and Python programming. The ability to design and implement a solution that can accurately predict the age and gender of individuals based on their facial images is a testament to the skills and expertise of the individual.
 
-Validation Gender Accuracy: 0.8827909231185913
+Validation Gender Accuracy: 0.8827909231185913.
 Gender Accuracy: 0.9292134046554565
